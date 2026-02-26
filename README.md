@@ -1,7 +1,4 @@
-# 🎓 University & Course Data Scraping Assignment
-
-## 📌 Internship Assignment Submission  
-**Position:** AI/ML & Web Scraping Data Entry Intern  
+# 🎓 University & Course Data Scraping Assignment 
 
 This project demonstrates automated web data structuring using Python.
 
